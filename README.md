@@ -1,1 +1,1 @@
-# CourseERA
+# CourseERA Projects
